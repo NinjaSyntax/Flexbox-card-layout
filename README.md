@@ -25,7 +25,7 @@ This project simulates a portfolio/services section and is part of my web develo
 ---
 
 ## 🚀 Live Demo
-👉 [View on GitHub Pages]([main](https://ninjasyntax.github.io/Flexbox-card-layout/))  
+👉 [View on GitHub Pages](main](https://ninjasyntax.github.io/Flexbox-card-layout/)  
 
 ---
 
