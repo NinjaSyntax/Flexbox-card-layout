@@ -1,0 +1,29 @@
+.services {
+    padding: 20px;
+    text-align: center;
+}
+
+.container-services {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.service-card {
+    background: white;
+    border: 2px solid #474545;
+    border-radius: 8px;
+    width: 250px;
+    padding: 20px;
+    box-shadow: 2px 2px 12px gray;
+    transition: transform 0.2s;
+
+
+}
+
+.service-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 2px 4px 15px rgba(0,0,0,0.2);
+}
+
