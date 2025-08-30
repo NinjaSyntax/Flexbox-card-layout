@@ -1,4 +1,4 @@
-# 🌟 Flexbox Card Layout (Portfolio / Services Section)
+#  Flexbox Card Layout (Portfolio / Services Section)
 
 A responsive **card layout** built using **HTML5** and **CSS3 Flexbox**.  
 This project simulates a portfolio/services section and is part of my web development learning journey.  
@@ -29,7 +29,7 @@ This project simulates a portfolio/services section and is part of my web develo
 
 ---
 
-## 👨‍💻 Author
+## Author
 **Saurabh (NinjaSyntax)** 
-- 🐦 Twitter: [@NinjaSaurabh12](https://x.com/NinjaSaurabh12)  
-- 💻 GitHub: [NinjaSyntax](https://github.com/NinjaSyntax)  
+-  Twitter: [@NinjaSaurabh12](https://x.com/NinjaSaurabh12)  
+-  GitHub: [NinjaSyntax](https://github.com/NinjaSyntax)  
