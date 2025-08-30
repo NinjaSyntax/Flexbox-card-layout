@@ -6,7 +6,7 @@ This project simulates a portfolio/services section and is part of my web develo
 ---
 
 ## 📸 Screenshot
-![Project Screenshot](./assets/screenshot.png)
+![Project Screenshot](Screenshot.png)
 
 ---
 
