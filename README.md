@@ -29,4 +29,7 @@ This project simulates a portfolio/services section and is part of my web develo
 
 ---
 
-## 📂 Project Structure
+## 👨‍💻 Author
+**Saurabh (NinjaSyntax)** 
+- 🐦 Twitter: [@NinjaSaurabh12](https://x.com/NinjaSaurabh12)  
+- 💻 GitHub: [NinjaSyntax](https://github.com/NinjaSyntax)  
