@@ -1,20 +1,32 @@
-# Flexbox Card Layout (Portfolio / Services Section)
+# 🌟 Flexbox Card Layout (Portfolio / Services Section)
 
-🚀 A simple project to practice **CSS Flexbox**.  
-I built a responsive card layout with hover effects to simulate a portfolio/services section.
+A responsive **card layout** built using **HTML5** and **CSS3 Flexbox**.  
+This project simulates a portfolio/services section and is part of my web development learning journey.  
+
+---
 
 ## 📸 Screenshot
 ![Project Screenshot](./assets/screenshot.png)
 
-## 🛠️ Tech Used
-- HTML5
-- CSS3 (Flexbox)
+---
+
+## 🛠️ Tech Stack
+- **HTML5**
+- **CSS3 (Flexbox)**
+
+---
 
 ## 📚 What I Learned
-- How to use `display: flex`, `justify-content`, `align-items`
-- Responsive wrapping with `flex-wrap`
-- Adding hover effects with `transform` & `box-shadow`
+- Using Flexbox properties: `display: flex`, `justify-content`, `align-items`, `flex-wrap`, and `gap`  
+- Creating responsive card layouts  
+- Adding hover effects with `box-shadow`, `transform`, and `transition`  
+- Organizing a project structure with HTML, CSS, and assets  
 
-## 🔗 Live Demo
-[View on GitHub Pages](https://YOURUSERNAME.github.io/flexbox-card-layout/)
+---
 
+## 🚀 Live Demo
+👉 [View on GitHub Pages](https://ninjasyntax.github.io/flexbox-card-layout/)  
+
+---
+
+## 📂 Project Structure
