@@ -5,18 +5,18 @@ This project simulates a portfolio/services section and is part of my web develo
 
 ---
 
-## 📸 Screenshot
+## 📸 Preview
 ![Project Screenshot](Screenshot.png)
 
 ---
 
-## 🛠️ Tech Stack
+## Built With
 - **HTML5**
 - **CSS3 (Flexbox)**
 
 ---
 
-## 📚 What I Learned
+## What I Learned
 - Using Flexbox properties: `display: flex`, `justify-content`, `align-items`, `flex-wrap`, and `gap`  
 - Creating responsive card layouts  
 - Adding hover effects with `box-shadow`, `transform`, and `transition`  
@@ -24,8 +24,8 @@ This project simulates a portfolio/services section and is part of my web develo
 
 ---
 
-## 🚀 Live Demo
-👉 [View on GitHub Pages](main](https://ninjasyntax.github.io/Flexbox-card-layout/)  
+## Live Demo
+👉 [Click to View](main](https://ninjasyntax.github.io/Flexbox-card-layout/)  
 
 ---
 
